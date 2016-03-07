@@ -2,4 +2,5 @@
 
 const terminalCharWidth = require("../lib");
 
-console.log(terminalCharWidth());
+console.log(terminalCharWidth);
+// => 0.5

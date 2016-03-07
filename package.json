@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/terminal-char-width/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/terminal-char-width#readme"
+  "homepage": "https://github.com/IonicaBizau/terminal-char-width#readme",
+  "dependencies": {
+    "is-windows": "^0.1.1"
+  }
 }

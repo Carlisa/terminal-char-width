@@ -15,20 +15,9 @@ $ npm i --save terminal-char-width
 
 const terminalCharWidth = require("terminal-char-width");
 
-console.log(terminalCharWidth());
+console.log(terminalCharWidth);
+// => 0.5
 ```
-
-## Documentation
-
-### `terminalCharWidth(a, b)`
-Get the char width/height proportions in different terminal emulators.
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
 
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
